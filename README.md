@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I usually work on my projects at <git.pabu.dev>
+I usually work on my projects at <https://git.pabu.dev>
